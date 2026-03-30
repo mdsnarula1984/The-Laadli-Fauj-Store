@@ -35,7 +35,7 @@ export default function Navbar() {
           
           {/* Logo */}
           <Link href="/" className="text-xl md:text-2xl font-black text-orange-600 tracking-tighter uppercase italic z-[110]">
-            The <span className="text-zinc-900 not-italic">Gurmukh</span> Store
+            The <span className="text-zinc-900 not-italic">Laadli Fauj</span> Store
           </Link>
 
           {/* Desktop Nav */}
