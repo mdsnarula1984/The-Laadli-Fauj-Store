@@ -95,7 +95,7 @@ export default function Navbar() {
           <div className="mt-12 text-center">
             <div className="w-12 h-[2px] bg-zinc-100 mx-auto mb-6"></div>
             <p className="text-[10px] font-black text-orange-600 tracking-[0.4em] uppercase">
-              Laadli Fauj • Est. 2024
+              Laadli Fauj • Est. 1699
             </p>
           </div>
         </div>
